@@ -15,3 +15,4 @@ C:\src\gupy\testeGupy\TesteGupy\obj\Debug\net8.0\ref\TesteGupy.dll
 C:\src\gupy\testeGupy\TesteGupy\bin\Debug\net8.0\Baseline.dll
 C:\src\gupy\testeGupy\TesteGupy\obj\Debug\net8.0\TesteGupy.csproj.AssemblyReference.cache
 C:\src\gupy\testeGupy\TesteGupy\obj\Debug\net8.0\TesteGupy.csproj.Up2Date
+C:\src\gupy\testeGupy\TesteGupy\obj\Debug\net8.0\TesteGupy.sourcelink.json
