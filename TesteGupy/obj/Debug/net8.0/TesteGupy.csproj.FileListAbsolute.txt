@@ -1,0 +1,17 @@
+C:\src\gupy\testeGupy\TesteGupy\bin\Debug\net8.0\TesteGupy.exe
+C:\src\gupy\testeGupy\TesteGupy\bin\Debug\net8.0\TesteGupy.deps.json
+C:\src\gupy\testeGupy\TesteGupy\bin\Debug\net8.0\TesteGupy.runtimeconfig.json
+C:\src\gupy\testeGupy\TesteGupy\bin\Debug\net8.0\TesteGupy.dll
+C:\src\gupy\testeGupy\TesteGupy\bin\Debug\net8.0\TesteGupy.pdb
+C:\src\gupy\testeGupy\TesteGupy\obj\Debug\net8.0\TesteGupy.GeneratedMSBuildEditorConfig.editorconfig
+C:\src\gupy\testeGupy\TesteGupy\obj\Debug\net8.0\TesteGupy.AssemblyInfoInputs.cache
+C:\src\gupy\testeGupy\TesteGupy\obj\Debug\net8.0\TesteGupy.AssemblyInfo.cs
+C:\src\gupy\testeGupy\TesteGupy\obj\Debug\net8.0\TesteGupy.csproj.CoreCompileInputs.cache
+C:\src\gupy\testeGupy\TesteGupy\obj\Debug\net8.0\TesteGupy.dll
+C:\src\gupy\testeGupy\TesteGupy\obj\Debug\net8.0\refint\TesteGupy.dll
+C:\src\gupy\testeGupy\TesteGupy\obj\Debug\net8.0\TesteGupy.pdb
+C:\src\gupy\testeGupy\TesteGupy\obj\Debug\net8.0\TesteGupy.genruntimeconfig.cache
+C:\src\gupy\testeGupy\TesteGupy\obj\Debug\net8.0\ref\TesteGupy.dll
+C:\src\gupy\testeGupy\TesteGupy\bin\Debug\net8.0\Baseline.dll
+C:\src\gupy\testeGupy\TesteGupy\obj\Debug\net8.0\TesteGupy.csproj.AssemblyReference.cache
+C:\src\gupy\testeGupy\TesteGupy\obj\Debug\net8.0\TesteGupy.csproj.Up2Date

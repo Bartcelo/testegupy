@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "X5G1r/z9erj53jVW8tqKIf/oShpxJ9J2hRo3RvXlDmyoPRX6Ig4/4eCVyabhOHDtr0dT+3bhF9BRSnBIrtxeGQ==",
+  "success": true,
+  "projectFilePath": "C:\\src\\gupy\\testeGupy\\TesteGupy\\TesteGupy.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Marcelo\\.nuget\\packages\\baseline\\4.1.0\\baseline.4.1.0.nupkg.sha512",
+    "C:\\Users\\Marcelo\\.nuget\\packages\\imtools\\4.0.0\\imtools.4.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
