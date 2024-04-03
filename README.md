@@ -1,4 +1,4 @@
-# Projeto de emprestimos de livors
+# Esse projeto é um teste feito na empresa Gupy
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/Bartcelo/EmprestimoLivros/blob/main/LICENSE) 
 
 - [Sobre o Projeto](#Sobre-o-Projeto).
